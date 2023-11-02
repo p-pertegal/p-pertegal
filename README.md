@@ -2,7 +2,7 @@
 
 <div align = "justify">
     <h6>ESP</h6>
-    Soy un estudiante de primer año de programación .En mi perfil, podrás encontrar trabajos de clase y proyectos personales.
+    Soy un estudiante de primer año de programación. En mi perfil, podrás encontrar trabajos de clase y proyectos personales. 
     <hr>
     <h6>ENG</h6>
     I'm a fresh year student of programming. In my profile you'll find personal proyects and school proyects. 
