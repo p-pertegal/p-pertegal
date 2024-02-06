@@ -1,2 +1,1 @@
-[<img src="https://img.shields.io/badge/Learning-Java-red?&logo=java">](<https://google.com/>)<br />
-[<img src="https://img.shields.io/badge/IDE-VSCode-0078d7?&logo=visualstudio">]()
+Hi! I'm an electronics engineering junior student entering the world of programming. Reach me out and we will create amazing things together. 
